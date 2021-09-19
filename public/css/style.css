@@ -1,0 +1,9 @@
+/* YOUR CUSTOM STYLES */
+
+.message {
+    padding: 0 !important;
+    font-size: unset;
+    font-family: unset;
+    font-weight: unset;
+    color: unset;
+}
